@@ -1,9 +1,17 @@
 {
-    "name": "diandian-node-oauth",
-    "description": "A JavaScript(Node) client for Diandian API",
-    "version": "0.0.1",
-    "private": true,
-    "dependencies": {
-        "oauth": "*"
-    }
+  "name": "diandian-node-oauth",
+  "description": "A JavaScript(Node) client for Diandian API",
+  "version": "0.0.1",
+  "author": "Zhao Lei <aicoylei@gmail.com>",
+  "private": true,
+  "dependencies": {
+    "coffee-script": "1.3.3",
+    "oauth": "0.9.8"
+  },
+  "keywords": ["diandian", "oauth", "oauth2", "api", "blog"],
+  "repository": "git://github.com/firede/diandian-node-oauth.git",
+  "main": "index",
+  "engines": {
+    "node": "~0.8.x"
+  }
 }
