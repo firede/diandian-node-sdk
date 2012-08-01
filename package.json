@@ -1,0 +1,9 @@
+{
+    "name": "diandian-node-oauth",
+    "description": "A JavaScript(Node) client for Diandian API",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "oauth": "*"
+    }
+}
